@@ -1,11 +1,4 @@
-<div align="center">
-
-<img width="1600" height="400" alt="f49c984f-29b8-4851-8b27-7c800b231d3c" src="https://github.com/user-attachments/assets/4eb26f01-83c1-40c7-81e3-46ccfac95772" />
-
-
-<a href="https://github.com/yonghoonchoi88">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=4F7BBF&center=true&vCenter=true&width=700&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+USA;SpaceX+Starlink+satellite+network+validation;Vision+AI+%C2%B7+OpenCV+%C2%B7+YOLO11+%C2%B7+PyTorch+%C2%B7+FastAPI;7+yrs+B2B+overseas+sales+(Japan+%C2%B7+China);B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/>
-</a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B5B8C&height=170&section=header&text=Yonghoon%20Choi%20%7C%20%EC%B5%9C%EC%9A%A9%ED%9B%88&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=QA%20Automation%20%E2%86%92%20Vision%20AI%20Engineer&descAlignY=60&descSize=17" width="100%" alt="header"/> <a href="https://github.com/yonghoonchoi88"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=3B5B8C&center=true&vCenter=true&width=640&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+America;Machine+Vision+%C2%B7+OpenCV+%C2%B7+YOLO+%C2%B7+PyTorch;Model+Serving+%C2%B7+FastAPI+%C2%B7+Celery+%C2%B7+Redis+%C2%B7+Docker;B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/> </a>
 
 <a href="mailto:y88.choi@gmail.com"><img src="https://img.shields.io/badge/Email-y88.choi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yonghoon-choi-452241226"><img src="https://img.shields.io/badge/LinkedIn-Yonghoon_Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
