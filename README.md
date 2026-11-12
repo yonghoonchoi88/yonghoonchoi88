@@ -1,11 +1,10 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B5B8C&height=170&section=header&text=Yonghoon%20Choi%20%7C%20%EC%B5%9C%EC%9A%A9%ED%9B%88&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=QA%20Automation%20%E2%86%92%20Vision%20AI%20Engineer&descAlignY=60&descSize=17" width="100%" alt="header"/> <a href="https://github.com/yonghoonchoi88"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=3B5B8C&center=true&vCenter=true&width=640&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+America;Machine+Vision+%C2%B7+OpenCV+%C2%B7+YOLO+%C2%B7+PyTorch;Model+Serving+%C2%B7+FastAPI+%C2%B7+Celery+%C2%B7+Redis+%C2%B7+Docker;B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/> </a>
+<div align="center"> 
+    <img width="1600" height="400" alt="bda66a19-95dc-4308-96ea-5035e8a76a3f" src="https://github.com/user-attachments/assets/228ee89c-b1e0-4bc3-a269-e6a3b58d506c" />
+<a href="https://github.com/yonghoonchoi88"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=4F7BBF&center=true&vCenter=true&width=700&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+USA;SpaceX+Starlink+satellite+network+validation;Vision+AI+%C2%B7+OpenCV+%C2%B7+YOLO11+%C2%B7+PyTorch+%C2%B7+FastAPI;7+yrs+B2B+overseas+sales+(Japan+%C2%B7+China);B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/> </a>
 
-<a href="mailto:y88.choi@gmail.com"><img src="https://img.shields.io/badge/Email-y88.choi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yonghoon-choi-452241226"><img src="https://img.shields.io/badge/LinkedIn-Yonghoon_Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Based_in-Seoul,_Korea-3B5B8C?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Languages-Korean_%7C_English_(native--level)-555555?style=flat-square"/>
+<a href="mailto:y88.choi@gmail.com"><img src="https://img.shields.io/badge/Email-y88.choi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yonghoon-choi-452241226"><img src="https://img.shields.io/badge/LinkedIn-Yonghoon_Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Based_in-Seoul,_Korea-3B5B8C?style=flat-square&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Languages-Korean_%7C_English_(native--level)-555555?style=flat-square"/>
 
-**검증하는 엔지니어가 만드는 Vision AI** · *I build vision systems the way a QA engineer would test them.*
+검증하는 엔지니어가 만드는 Vision AI · I build vision systems the way a QA engineer would test them.
 
 </div>
 
