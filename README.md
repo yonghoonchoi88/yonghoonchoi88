@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B5B8C&height=170&section=header&text=Yonghoon%20Choi%20%7C%20%EC%B5%9C%EC%9A%A9%ED%9B%88&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Technical%20Sales%20%26%20Vision%20AI%20Engineer&descAlignY=60&descSize=17" width="100%" alt="header"/>
+<!-- ▼ 배너를 쓰려면: 이 아래 두 줄(h1, h3)을 지우고, 그 자리에 header-banner.png를 끌어다 놓으세요 -->
+<h1>최용훈 · Yonghoon Choi</h1>
+<h3>Technical Sales &amp; Vision AI Engineer</h3>
 
 <a href="https://github.com/yonghoonchoi88">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=4F7BBF&center=true&vCenter=true&width=700&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+USA;SpaceX+Starlink+satellite+network+validation;Vision+AI+%C2%B7+OpenCV+%C2%B7+YOLO11+%C2%B7+PyTorch+%C2%B7+FastAPI;7+yrs+B2B+overseas+sales+(Japan+%C2%B7+China);B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/>
@@ -316,5 +318,3 @@ Problem Definition
 </div>
 
 > *From testing networks between satellites and phones, to testing what a camera sees on the factory floor — I make sure it actually works.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B5B8C,100:1F2A44&height=110&section=footer" width="100%" alt="footer"/>
