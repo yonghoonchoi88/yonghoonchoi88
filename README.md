@@ -179,6 +179,7 @@ QA에서 몸에 익힌 방식 그대로 끝까지 검증합니다. 그리고 그
 - 촬영 세션 단위 Split으로 **Data Leakage 방지**, 실패 분석 기반 개선으로 Val mAP50 **0.622 → 0.756**
 - PR 리뷰·merge **130건**으로 팀 작업 통합, Acceptance Test **33/33**, NDA 데이터 보안 관리
 - `YOLO11n` `PyTorch` `CUDA` `pandas` `tkinter` `GitHub PR workflow`
+- 📄 [기술 문서 보기 (Figma)](https://www.figma.com/design/peaPChl6cdBJjuzULYJkPk/Kimchi_Foreign_Object_Detection)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/kimchi-foreign-object-detection"><img src="https://raw.githubusercontent.com/yonghoonchoi88/kimchi-foreign-object-detection/main/detection-model/docs/figures/readme_dashboard.png" width="720" alt="조각김치 이물 검출 결과 대시보드"/></a></p>
 
@@ -189,6 +190,7 @@ QA에서 몸에 익힌 방식 그대로 끝까지 검증합니다. 그리고 그
 - FastAPI · Redis 캐시 · Celery 비동기 · PostgreSQL을 **Docker Compose 4 services**로 배포
 - 장애 테스트 포함 실환경 테스트 **27/27 PASS**, Grad-CAM · HSV 분석으로 오분류 원인 진단
 - `PyTorch` `Transformers` `FastAPI` `Celery` `Redis` `PostgreSQL` `Docker`
+- 📄 [기술 문서 보기 (Figma)](https://www.figma.com/design/8mR9Tlh6hyFZhOcblq2dWG/Soybean_Leaf_Identifier)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/Soybean_Leaf_Identifier"><img src="https://raw.githubusercontent.com/yonghoonchoi88/Soybean_Leaf_Identifier/main/reports/figures/dashboard.png" width="720" alt="콩잎 질병 분류 결과 대시보드"/></a></p>
 
@@ -199,6 +201,7 @@ QA에서 몸에 익힌 방식 그대로 끝까지 검증합니다. 그리고 그
 - 소매에 잘린 손목 오검출 원인을 찾아 실제 사진 정확도 **0.48 → 0.92**, 회귀 테스트 포함 **pytest 41건**
 - FastAPI 기반 스마트폰 IP Webcam MJPEG 스트리밍, 브라우저에서 ROI 지정하는 웹 대시보드
 - `OpenCV` `FastAPI` `pytest` `NumPy`
+- 📄 [기술 문서 보기 (Figma)](https://www.figma.com/design/dqYOev901OMWJN59N71xoP/finger_counter)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/finger_counter"><img src="https://raw.githubusercontent.com/yonghoonchoi88/finger_counter/main/images/demo.gif" width="640" alt="손가락 개수 검사 실행 화면"/></a></p>
 
