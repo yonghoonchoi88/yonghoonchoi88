@@ -1,6 +1,7 @@
 
 
-<img width="1600" height="400" alt="eaebda4f-2ba5-4b93-b9bc-f2bdecef4266" src="https://github.com/user-attachments/assets/c94d5673-a9db-41f3-96e2-1f0c19f758e9" />
+<img width="1600" height="400" alt="b72feb7c-cd4e-4cb3-88af-11b4ad2d168e" src="https://github.com/user-attachments/assets/a981d42e-0c22-4742-89f6-cb2d89f8ae3e" />
+
 
 <a href="https://github.com/yonghoonchoi88">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=4F7BBF&center=true&vCenter=true&width=700&lines=5%2B+yrs+SQA+%26+Test+Automation+%40+Samsung+Electronics+USA;SpaceX+Starlink+satellite+network+validation;Vision+AI+%C2%B7+OpenCV+%C2%B7+YOLO11+%C2%B7+PyTorch+%C2%B7+FastAPI;7+yrs+B2B+overseas+sales+(Japan+%C2%B7+China);B.S.+Computer+Science+%40+University+of+Washington" alt="typing"/>
