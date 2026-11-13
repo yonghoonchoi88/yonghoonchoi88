@@ -179,6 +179,7 @@ My strength is tying experiences that look unrelated into one job: **building tr
 - Session-level split to **prevent data leakage**; failure-driven improvements raised val mAP50 **0.622 → 0.756**
 - Integrated team work through **130** PR reviews and merges, acceptance tests **33/33**, NDA data handled securely
 - `YOLO11n` `PyTorch` `CUDA` `pandas` `tkinter` `GitHub PR workflow`
+- 📄 [Technical docs (Figma)](https://www.figma.com/design/peaPChl6cdBJjuzULYJkPk/Kimchi_Foreign_Object_Detection)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/kimchi-foreign-object-detection"><img src="https://raw.githubusercontent.com/yonghoonchoi88/kimchi-foreign-object-detection/main/assets/readme_dashboard.en.png" width="720" alt="Kimchi foreign-object detection results dashboard"/></a></p>
 
@@ -189,6 +190,7 @@ My strength is tying experiences that look unrelated into one job: **building tr
 - Deployed FastAPI · Redis cache · Celery async · PostgreSQL as **4 Docker Compose services**
 - **27/27** live tests including failure cases; diagnosed misclassifications with Grad-CAM and HSV analysis
 - `PyTorch` `Transformers` `FastAPI` `Celery` `Redis` `PostgreSQL` `Docker`
+- 📄 [Technical docs (Figma)](https://www.figma.com/design/8mR9Tlh6hyFZhOcblq2dWG/Soybean_Leaf_Identifier)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/Soybean_Leaf_Identifier"><img src="https://raw.githubusercontent.com/yonghoonchoi88/Soybean_Leaf_Identifier/main/reports/figures/dashboard.en.png" width="720" alt="Soybean leaf disease classification results dashboard"/></a></p>
 
@@ -199,6 +201,7 @@ My strength is tying experiences that look unrelated into one job: **building tr
 - Found why sleeve-cut wrists were miscounted: real-photo accuracy **0.48 → 0.92**, locked in with **41** pytest tests including regression
 - FastAPI smartphone IP Webcam MJPEG streaming, with a web dashboard for setting the ROI in the browser
 - `OpenCV` `FastAPI` `pytest` `NumPy`
+- 📄 [Technical docs (Figma)](https://www.figma.com/design/dqYOev901OMWJN59N71xoP/finger_counter)
 
 <p align="center"><a href="https://github.com/yonghoonchoi88/finger_counter"><img src="https://raw.githubusercontent.com/yonghoonchoi88/finger_counter/main/images/demo.gif" width="640" alt="Finger counter demo"/></a></p>
 
