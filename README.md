@@ -1,8 +1,4 @@
-<!-- ▼ 배너: 지금 올려둔 header-banner.png 이미지 줄을 이 자리에 그대로 두세요 (아래 h1/p 두 줄은 배너가 있으면 지워도 됩니다) -->
-<div align="center">
-
-<h1>James Yonghoon Choi · 최용훈</h1>
-<p><b>Technical Sales &amp; Vision AI Engineer</b></p>
+<img width="1600" height="400" alt="418ccbbb-7af1-4aee-a93a-20001e39f304" src="https://github.com/user-attachments/assets/71135805-d047-4c36-b40d-d25105514860" />
 
 <a href="mailto:y88.choi@gmail.com"><img src="https://img.shields.io/badge/Email-y88.choi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/yonghoon-choi-452241226"><img src="https://img.shields.io/badge/LinkedIn-Yonghoon_Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
