@@ -36,7 +36,6 @@ QA에서 몸에 익힌 방식 그대로 끝까지 검증합니다. 그리고 그
 | 시기 | 소속 | 역할 · 내용 |
 |:---:|---|---|
 | 2010.03 – 2017.03<br/><sub>경력</sub> | **KYSYS Corporation**<br/><sub>한국</sub> | 해외사업팀 매니저 — 일본·중국 B2B 수출, 총매출 **15%(약 400만 달러)** 성장, **2년 연속 최고 매출** |
-| ~ 2018.06<br/><sub>학력</sub> | **Green River College**<br/><sub>미국</sub> | Aeronautical Science (항공 운항·정비) — **GPA 4.0** |
 | 2020.06 – 2020.12<br/><sub>경력</sub> | **BTI Solution**<br/><sub>미국</sub> | Software QA Tester — 4CC · 5CC · ULCA 차세대 기능 검증 |
 | 2020.12 – 2025.09<br/><sub>경력</sub> | **Samsung Electronics America**<br/><sub>Bellevue, WA</sub> | SQA Software Engineer — **SpaceX × T-Mobile** 위성 프로젝트, Python 자동화 테스트 프레임워크 (TMO · VZW · AT&T) |
 | ~ 2022.08<br/><sub>학력</sub> | **University of Washington**<br/><sub>미국</sub> | B.S. Computer Science — **GPA 3.9 · Dean's List** |
